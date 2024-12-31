@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "ApiInfodengue.Controllers.DadosEpidemiologicosController",
+    "Method": "Consultar",
+    "RelativePath": "api/DadosEpidemiologicos/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "geocode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "disease",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ewStart",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ewEnd",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "eyStart",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "eyEnd",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiInfoDengue.Controllers.RelatoriosController",
+    "Method": "GetRelatorios",
+    "RelativePath": "api/Relatorios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiInfoDengue.Controllers.RelatoriosController",
+    "Method": "AddRelatorio",
+    "RelativePath": "api/Relatorios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "relatorio",
+        "Type": "ApiInfoDengue.Domain.Relatorio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiInfodengue.Controllers.SolicitantesController",
+    "Method": "Create",
+    "RelativePath": "api/Solicitantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "solicitante",
+        "Type": "ApiInfoDengue.Domain.Solicitante",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiInfodengue.Controllers.SolicitantesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Solicitantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiInfodengue.Controllers.SolicitantesController",
+    "Method": "GetById",
+    "RelativePath": "api/Solicitantes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
