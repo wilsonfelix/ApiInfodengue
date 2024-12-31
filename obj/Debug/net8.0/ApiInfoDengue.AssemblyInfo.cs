@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiInfoDengue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc794eae619eacef0589a3b20d06643305501e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5071f0b6940493db2c28879c38ea3d455bd7b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiInfoDengue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiInfoDengue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

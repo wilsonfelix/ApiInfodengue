@@ -17,57 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiInfoDengue
 build_property.RootNamespace = ApiInfoDengue
-build_property.ProjectDir = C:\temp\provafiotech\Api\ApiInfodengue\ApiInfoDengue\
+build_property.ProjectDir = C:\Users\rmfreitas1\Documents\Projetos\Estudo\Labs\ApiInfodengue\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\temp\provafiotech\Api\ApiInfodengue\ApiInfoDengue
+build_property.MSBuildProjectDirectory = C:\Users\rmfreitas1\Documents\Projetos\Estudo\Labs\ApiInfodengue
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Relatorios/Create.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Relatorios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Relatorios/Delete.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Relatorios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Relatorios/Details.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Relatorios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Relatorios/Edit.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Relatorios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Relatorios/Index.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Relatorios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Solicitantes/Create.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Solicitantes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Solicitantes/Delete.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Solicitantes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Solicitantes/Details.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Solicitantes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Solicitantes/Edit.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Solicitantes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/provafiotech/Api/ApiInfodengue/ApiInfoDengue/Views/Solicitantes/Index.cshtml]
+[C:/Users/rmfreitas1/Documents/Projetos/Estudo/Labs/ApiInfodengue/Views/Solicitantes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

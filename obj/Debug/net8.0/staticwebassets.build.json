@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "lSXzb4wr3BNMg0qmA+bu0PwDRqWbK+uE63l3V8tG4WM=",
+  "Hash": "Pvl5sCfVDO5nYquCx3ncHmWkKueRGYmjPLYhtsx8cac=",
   "Source": "ApiInfoDengue",
   "BasePath": "_content/ApiInfoDengue",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

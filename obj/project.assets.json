@@ -8324,24 +8324,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Wilson\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\rmfreitas1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\provafiotech\\Api\\ApiInfodengue\\ApiInfoDengue\\ApiInfoDengue.csproj",
+      "projectUniqueName": "C:\\Users\\rmfreitas1\\Documents\\Projetos\\Estudo\\Labs\\ApiInfodengue\\ApiInfoDengue.csproj",
       "projectName": "ApiInfoDengue",
-      "projectPath": "C:\\temp\\provafiotech\\Api\\ApiInfodengue\\ApiInfoDengue\\ApiInfoDengue.csproj",
-      "packagesPath": "C:\\Users\\Wilson\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\provafiotech\\Api\\ApiInfodengue\\ApiInfoDengue\\obj\\",
+      "projectPath": "C:\\Users\\rmfreitas1\\Documents\\Projetos\\Estudo\\Labs\\ApiInfodengue\\ApiInfoDengue.csproj",
+      "packagesPath": "C:\\Users\\rmfreitas1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rmfreitas1\\Documents\\Projetos\\Estudo\\Labs\\ApiInfodengue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Wilson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\rmfreitas1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8367,8 +8366,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -8434,7 +8432,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

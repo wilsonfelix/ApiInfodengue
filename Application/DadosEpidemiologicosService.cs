@@ -25,11 +25,11 @@ namespace ApiInfoDengue.Application
                 {
                     CodigoIBGE = geocode,
                     Doenca = disease,
-                    DataInicio = DateTime.Parse(item.data_iniSE.ToString()),
-                    DataFim = DateTime.Parse(item.data_fimSE.ToString()),
-                    CasosEstimadosMin = int.Parse(item.casos_est_min.ToString()),
-                    CasosEstimadosMax = int.Parse(item.casos_est_max.ToString()),
-                    Incidencia = float.Parse(item.p_inc100.ToString())
+                    //DataInicio = DateTime.Parse(item.data_iniSE.ToString()),
+                    //DataFim = DateTime.Parse(item.data_fimSE.ToString()),
+                    CasosEstimadosMin = item.CasosEstMin.Value,
+                    CasosEstimadosMax = item.CasosEstMax.Value,
+                    Incidencia = item.PInc100K.Value
                 };
 
                 _context.DadosEpidemiologicos.Add(dado);
